@@ -1,0 +1,10 @@
+Kindergarten. Total amount of money: $355.30
+First. Total amount of money: $336.75
+Second. Total amount of money: $417.48
+Third. Total amount of money: $745.04
+Fourth. Total amount of money: $403.80
+Fifth. Total amount of money: $685.00
+
+The school raised a total amount of: $2943.37
+
+The Third class raised the most money: $745.04
